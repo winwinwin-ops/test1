@@ -8,5 +8,5 @@ int main() {
     
     cout << t << endl; // 輸出字串 t 並換行
     cout << s1 << "\t" << s2 << "\t" << s3 << "\t" << endl; // 輸出三個成績，並用 Tab 隔開
-    return 0;
+    return 0
 }
